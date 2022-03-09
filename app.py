@@ -27,5 +27,5 @@ for ele in price:
     if ele.strip():
         res2.append(ele)
 ree2 =[''.join(item.split()) for item in res2]
-print(len(ree1))
-print(len(ree2))
+print(ree1)
+print(ree2)
